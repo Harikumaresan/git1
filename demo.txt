@@ -1,3 +1,6 @@
 i'm using git
 now i'm making a commit
 now second commit
+hi 
+hello
+ how are you
